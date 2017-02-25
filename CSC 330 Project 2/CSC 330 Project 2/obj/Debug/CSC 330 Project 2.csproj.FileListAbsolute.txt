@@ -1,0 +1,28 @@
+c:\users\john\documents\visual studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\obj\Debug\CSC 330 Project 2.csprojResolveAssemblyReference.cache
+c:\users\john\documents\visual studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\obj\Debug\CSC_330_Project_2.Form1.resources
+c:\users\john\documents\visual studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\obj\Debug\CSC_330_Project_2.Properties.Resources.resources
+c:\users\john\documents\visual studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\obj\Debug\CSC 330 Project 2.csproj.GenerateResource.Cache
+c:\users\john\documents\visual studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\bin\Debug\CSC 330 Project 2.exe
+c:\users\john\documents\visual studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\bin\Debug\MySql.Data.dll
+C:\Users\john\documents\visual studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\obj\Debug\CSC_330_Project_2.Form2.resources
+C:\Users\john\documents\visual studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\obj\Debug\CSC_330_Project_2.Form3.resources
+C:\Users\john\Documents\Visual Studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\obj\Debug\CSC_330_Project_2.Form4.resources
+C:\Users\john\documents\visual studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\bin\Debug\CSC 330 Project 21.exe
+C:\Users\john\documents\visual studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\bin\Debug\CSC 330 Project 211.exe.config
+C:\Users\john\documents\visual studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\bin\Debug\CSC 330 Project 211.exe
+C:\Users\john\documents\visual studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\bin\Debug\CSC 330 Project 211.pdb
+C:\Users\john\documents\visual studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\obj\Debug\CSC 330 Project 211.exe
+C:\Users\john\documents\visual studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\obj\Debug\CSC 330 Project 211.pdb
+C:\Users\john\documents\visual studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\bin\Debug\CSC 330 Project 2.exe.config
+C:\Users\John\Documents\Visual Studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\CSC 330 Project 2\bin\Debug\CSC 330 Project 2.exe.config
+C:\Users\John\Documents\Visual Studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\CSC 330 Project 2\bin\Debug\CSC 330 Project 2.exe
+C:\Users\John\Documents\Visual Studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\CSC 330 Project 2\bin\Debug\CSC 330 Project 2.pdb
+C:\Users\John\Documents\Visual Studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\CSC 330 Project 2\obj\Debug\CSC 330 Project 2.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\CSC 330 Project 2\obj\Debug\CSC_330_Project_2.Form3.resources
+C:\Users\John\Documents\Visual Studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\CSC 330 Project 2\obj\Debug\CSC_330_Project_2.Form1.resources
+C:\Users\John\Documents\Visual Studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\CSC 330 Project 2\obj\Debug\CSC_330_Project_2.Form2.resources
+C:\Users\John\Documents\Visual Studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\CSC 330 Project 2\obj\Debug\CSC_330_Project_2.Form4.resources
+C:\Users\John\Documents\Visual Studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\CSC 330 Project 2\obj\Debug\CSC_330_Project_2.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\CSC 330 Project 2\obj\Debug\CSC 330 Project 2.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\CSC 330 Project 2\obj\Debug\CSC 330 Project 2.exe
+C:\Users\John\Documents\Visual Studio 2015\Projects\CSC 330 Project 2\CSC 330 Project 2\CSC 330 Project 2\obj\Debug\CSC 330 Project 2.pdb
